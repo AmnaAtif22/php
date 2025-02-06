@@ -1,0 +1,1 @@
+# This repo contains all of school projects related to databases
